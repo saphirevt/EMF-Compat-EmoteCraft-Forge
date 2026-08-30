@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.emfcompat.emotecraft.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "emf_compat_emotecraft.refmap.json",
+  "client": [
+    "BendHelperMixin",
+    "EmfCubeMixin",
+    "ModelPartCopyMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
