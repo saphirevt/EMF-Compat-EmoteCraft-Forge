@@ -14,7 +14,8 @@ This mod requires:
 * Bandy Lib
 
 ## Note
-_Custom player models with many boxes on a limb may not bend properly. I added a check to the code that if an element has more than 3 boxes, that limb will not bend._
+* _Custom player models with many boxes on a limb may not bend properly. I added a check to the code that if an element has more than 3 boxes, that limb will not bend._
+* _This mod most likely won’t receive updates, as I ported it for my own modpack to play with friends (at most, I might fix the texture issues on the armor layer when it bends)._
 
 ## Credits
 * The original mod was created by [joaosant05](https://github.com/joaosant05/emf-compat-emotecraft)
