@@ -13,7 +13,7 @@ This mod requires:
 * EmoteCraft
 * Bandy Lib
 
-## Note
+## Notes
 * _Custom player models with many boxes on a limb may not bend properly. I added a check to the code that if an element has more than 3 boxes, that limb will not bend._
 * _Also, the elements of your custom model that will be bent must have a box UV map, because when an element with a per‑face UV map is bent, the textures will be displayed incorrectly._
 * _This mod most likely won’t receive updates, as I ported it for my own modpack to play with friends (at most, I might fix the texture issues on the armor layer when it bends)._
